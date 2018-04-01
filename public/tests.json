@@ -1,0 +1,12 @@
+[ 
+   {
+   "question": "Qui est le créateur de Javascript?",
+   "propositions": ["Guido van Rossum", "Brendan Eich", "Steve Wozniak"],
+   "rightAnswer": "Brendan Eich"
+   },
+   {
+   "question": "Comment mesure-t-on la longueur d'un tableau ou d'une chaîne?",
+   "propositions": ["avec un décimètre", "avec précision","avec .length()"],
+   "rightAnswer": "avec .length()"
+   }
+]
