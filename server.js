@@ -26,8 +26,8 @@ const html = `
 </html>`
 
 app.get('/tests', (req, res) => {
-    res.json(tests)
-    res.end()
+   res.json(tests)
+   res.end()
 })
 
 app.get('*', (req, res) => {
